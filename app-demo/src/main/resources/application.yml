@@ -1,0 +1,3 @@
+vfs:
+  logging:
+    resource: enable

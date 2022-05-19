@@ -1,0 +1,5 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.vfs.logging.config.SpringResourcePrintConfiguration,\
+com.vfs.logging.config.SpringControllerAdviceConfiguration,\
+com.vfs.logging.config.SpringInterceptorConfiguration,\
+com.vfs.logging.config.SpringLoggingAutoConfiguration
